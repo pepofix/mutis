@@ -178,12 +178,3 @@ color: black;
     height: 100%;
   }
 }
-@media (max-width: 400px) {
-  .fullscreen-bg {
-    background: url('https://silenci.online/img/tai_txi.jpg') center center / cover no-repeat;
-  }
-
-  .fullscreen-bg__video {
-    display: none;
-  }
-}
