@@ -180,7 +180,7 @@ color: black;
 }
 @media (max-width: 767px) {
   .fullscreen-bg {
-    background: url('https://mutis/img/lescireretes.png') center center / cover no-repeat;
+    background: url('') center center / cover no-repeat;
   }
 
   .fullscreen-bg__video {
