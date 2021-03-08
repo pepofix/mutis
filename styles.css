@@ -50,7 +50,7 @@ body {
 #subtitle {
   text-align: center;
   position: relative;
-  top: 200px;
+  top: 140px;
 	margin: 0px auto;
   width: 22%;
 	min-width:250px;
@@ -178,9 +178,9 @@ color: black;
     height: 100%;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 400px) {
   .fullscreen-bg {
-    background: url('https://silenci.online/img/imatge.jpg') center center / cover no-repeat;
+    background: url('https://silenci.online/img/tai_txi.jpg') center center / cover no-repeat;
   }
 
   .fullscreen-bg__video {
