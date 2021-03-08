@@ -50,7 +50,7 @@ body {
 #subtitle {
   text-align: center;
   position: relative;
-  top: 140px;
+  top: 200px;
 	margin: 0px auto;
   width: 22%;
 	min-width:250px;
@@ -176,5 +176,14 @@ color: black;
   .fullscreen-bg__video {
     width: auto;
     height: 100%;
+  }
+}
+@media (max-width: 400px) {
+  .fullscreen-bg {
+    background: url('https://Mutis.cat/img/') center center / cover no-repeat;
+  }
+
+  .fullscreen-bg__video {
+    display: none;
   }
 }
